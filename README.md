@@ -1,6 +1,5 @@
 # About Me
-
-I am a passionate and innovative software developer with an interest in artificial intelligence, machine learning, and data science.
+I’m a developer passionate about AI, machine learning, and data science. I love building efficient, scalable Websites and experimenting with new tech.I mostly work with Generative AI,FastAPI, Firebase, SQLite, Python, and Docker. I’m always curious about new technologies and love teaming up on interesting projects!
 
 ## Technical Expertise
 
@@ -11,5 +10,5 @@ I am a passionate and innovative software developer with an interest in artifici
 - 🐍 **Python**  
 - 💻 **C++**  
 - 🔥 **PyTorch**  
-- 📦 **Docker**  
-
+- 📦 **Docker**
+- ☁️ **Firebase**
